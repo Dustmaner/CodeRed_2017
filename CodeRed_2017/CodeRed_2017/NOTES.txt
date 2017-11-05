@@ -1,0 +1,33 @@
+The Chords in A minor are
+A B C D E F G
+
+And they represent the folowing Major/Minor
+i ii7 III iv v VI VII
+
+As reference(in order):
+ACEG (i)
+BDFA (ii7)
+CEGB (III)
+DFAC (iv)
+EGBD (v)
+FACE (vi)
+GBDF (VII)
+
+Your chord progression will be:
+
+A C E G (i)
+
+E G B D (v)
+
+F A C E (vi)
+
+D F A C (iv)
+
+B D F A (ii7)
+
+B D F A (ii7)
+
+C E G B (III)
+
+E G B D (v)
+

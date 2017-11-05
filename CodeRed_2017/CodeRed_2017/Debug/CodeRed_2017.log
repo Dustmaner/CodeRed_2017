@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\sturmzeit\documents\visual studio 2015\projects\codered_2017\codered_2017\main.cpp(21): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  CodeRed_2017.vcxproj -> C:\Users\SturmZeit\Documents\Visual Studio 2015\Projects\CodeRed_2017\Debug\CodeRed_2017.exe
