@@ -163,7 +163,8 @@ int main(int argc, char** argv)
 	}
 
 	outputfile.sortTracks();         // make sure data is in correct order
-	outputfile.write("CHORDS.mid"); // write Standard MIDI File twinkle.mid
+	outputfile.joinTracks();
+	outputfile.write("CHORDS.mid"); // write Standard MIDI File
 
 	return 0;
 }
