@@ -134,7 +134,7 @@ int main(int argc, char** argv)
 		i++;
 	}
 
-	// store a base line in track 2
+	// store a low line in track 2
 	i = 0;
 	actiontime = 0;          // reset time for beginning of file
 	midievent[2] = 64;
@@ -148,7 +148,7 @@ int main(int argc, char** argv)
 		i++;
 	}
 
-	// store a base line in track 3
+	// store a high line in track 3
 	i = 0;
 	actiontime = 0;          // reset time for beginning of file
 	midievent[2] = 64;
