@@ -7,3 +7,6 @@ Just run the project and you should be able to get 2 files: "NOTES.txt" and "CHO
 "NOTES" gives you the blueprints to create your own song.
 
 "CHORDS" gives you a midi file with the same chord progression as "NOTES".
+
+
+(You may need to disable deprecation, use _CRT_SECURE_NO_WARNINGS)
